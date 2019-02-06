@@ -1,0 +1,8 @@
+Assignment 1 for CPSC 599 - Mixed Reality Apps
+
+Connect to an android device and build from Unity to run
+Note: You will need the Android SDK
+
+Using the 3 anchor images, the app will display a Mushroom that moves between the 3 anchors, and performas a spinning animation when it reaches the final one.
+
+Anchor images are in the main folder of the repo for easy access.
