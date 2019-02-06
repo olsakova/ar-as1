@@ -1,0 +1,4 @@
+#Tue Feb 05 22:10:05 MST 2019
+base.0=/Users/Misuska/Assignment1/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
